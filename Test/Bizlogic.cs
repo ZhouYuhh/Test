@@ -36,5 +36,10 @@ namespace Test
             else
                 return null;
         }
+
+        public int a()
+        {
+            return 1;
+        }
     }
 }
